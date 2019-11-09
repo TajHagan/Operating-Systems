@@ -6,3 +6,6 @@ A Operating System also monitors and keeps the overall system health in check.
 This means making sure everything is working and doing its job properly. 
 It also will let you the user know when things arent working correctly. 
 
+A very important job for an OS is a file system. 
+File systems is how the user interacts with all the data stored on the computer. 
+Its up to the OS to organize it and display it in a way that the user can easily find and interact with the files saved. 
