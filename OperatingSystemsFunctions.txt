@@ -1,0 +1,3 @@
+One important function of a operating system is memory mangment.
+When programs ar requesting and storing data it is the OS's job to ograngize and manage usagae of memory.
+With out the OS the harware would be all jumbled by the programs that are trying to use it. 
